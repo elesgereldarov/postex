@@ -1,0 +1,21 @@
+.loggedin-member-info{
+    /* width: 100px; */
+    background-color:#ef7d00;
+    height: 40px;
+    border-top-left-radius: 50px;
+    border-bottom-left-radius: 50px;
+
+}
+
+.loggedin-member-info span{
+    display: block;
+    margin-top:10px;
+    text-align: center;
+    margin-left:40px;
+    color:white;
+}
+
+
+.swal2-popup {
+	font-size: 1.5rem !important;
+}
