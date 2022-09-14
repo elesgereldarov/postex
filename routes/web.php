@@ -35,6 +35,7 @@ Route::get('aboutus', [SiteController::class, "aboutus"])->name('home.aboutus');
 
 
 
+
 Route::get('leykoz', [SiteController::class, "leykoz"])->name('home.leykoz');
 Route::get('uafa', [SiteController::class, "uafa"])->name('home.uafa');
 Route::get('yardimeli', [SiteController::class, "yardimeli"])->name('home.yardimeli');
